@@ -1,5 +1,2 @@
 ### `VerificareCNP` 
-Aplicatie in care se introduce numele, prenumele si CNP-ul unei persoane de la tastatura. Daca valoarea 
-CNP-ului este incorecta, aplicatia va afisa mesajul "CNP incorect!" si se va cere reintroducerea datelor 
-(nume, prenume si CNP).
-Daca CNP-ul este valid, aplicatia se opreste. 
+Application in which is introduced the surname, first name and ID of a person from keyboard. If ID is incorrect, it displays "ID incorrect!" and it is required to reintroduce data (surname, fist name and ID). If ID is valid, the application stops. 
